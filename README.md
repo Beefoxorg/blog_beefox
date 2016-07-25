@@ -1,2 +1,21 @@
 # blog_beefox
-Es un proyecto del curso de la carrera de Front End de Platzi. 
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del Proyecto
+
+[Usage]
+
+[Documentación]
+
+[Future Planes]
+
+[RoadMap]
+
+[license]
+
+
+
